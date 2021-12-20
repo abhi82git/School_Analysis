@@ -40,26 +40,26 @@ Only Thomas High School 9th grades are replaced by NaN. Rest of grades of Thomas
 
 #### Scores and school spending
 Since the reading and math averages for Thomas High School had bumped back to original values, there is no difference in scores by school spending.
-![Old Math Scores and Spending Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
-![New Reading Scores and Spending Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
+![Old_Scores_By_Spending](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/Old_Scores_By_Spending.png)
+![New_Scores_By_Spending](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/New_Scores_By_Spending.png)
 
 #### Scores by school size
 Since all students are still being counted and reading and math averages for Thomas High School had bumped back to original values, there is no difference in scores by school size.
-![Old Scores and Size Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
-![New Scores and Size Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
+![Old Scores and Size Summary](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/Old_Scores_By_School_Size.png)
+![New Scores and Size Summary](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/New_Scores_By_School_Size.png)
 
 
 #### Scores by school type
 Since all students are still being counted and reading and math averages for Thomas High School had bumped back to original values, there is no difference in scores by school type.
-![Old Scores and Type Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
-![New Scores and Type Summary](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
+![Old Scores and Type Summary](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/Old_Scores_By_Type_Summary.png)
+![New Scores and Type Summary](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/New_Scores_By_Type_Summary.png)
 
 
 ## Summary:
  - Math and reading averages dropped by a lot when math and reading scores for 9th grade were replaced by NaN.
  - Math and reading averages reverted back to original when 9th graders whole scores were replaced were removed from the count.
  - Even after removing those scores of 9th grade, Thomas was still the 2nd best school in the district.
-![Old Top 5 school list](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
-![New Top 5 school list](https://github.com/abhi82git/Election_Analysis/blob/068845e7f4a4b38f75d2462542eb43781a0f7df1/Resources/Total_Votes.png)
+![Old Top 5 school list](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/Old_Top_5_Schools_List.png)
+![New Top 5 school list](https://github.com/abhi82git/School_Analysis/blob/e55aef1294989d3dce13b779792dfaf27f3a6096/Resources/New_Top_5_Schools_List.png)
  
  - No meaningful difference in school spending by type.
